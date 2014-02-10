@@ -1,0 +1,1 @@
+"app/CardManager.ts" "app/CardSuit.ts" "app/PlayingCard.ts" "app/PlayingCardDeck.ts" --sourcemap --removeComments --target ES3 --module commonjs --outDir app/js --mapRoot app/js
